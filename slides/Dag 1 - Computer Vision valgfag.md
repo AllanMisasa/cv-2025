@@ -196,6 +196,12 @@ Hvilket vil sige hvis vi bare vil have alle blå farver, kan vi filtere kun i **
 
 ---
 
+## HSV farveskala
+
+![](hsvskala.png)
+
+---
+
 ## Video til opgave 2
 
 Videomateriale (eksempel er med video, men alt efter cvtColor kan bruges *as-is* på ét billede) til at isolere farver i HSV billeder:
